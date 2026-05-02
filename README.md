@@ -1,8 +1,6 @@
-# IT Support to Security Portfolio
+# System Security & Operations Lab
 
-This repository contains hands-on labs demonstrating enterprise IT operations, endpoint administration, troubleshooting, and security-focused workflows.
-
-The projects are designed to reflect real-world responsibilities across IT Support and entry-level Security Operations roles, with structured documentation, incident analysis, and operational validation.
+This repository contains hands-on labs demonstrating how systems are configured, secured, and analyzed in practice. The projects simulate real-world environments, combining system administration, troubleshooting, and security-focused workflows.
 
 ---
 
@@ -29,9 +27,15 @@ Folder: `Project-1-Enterprise-Endpoint-Operations`
 
 ---
 
+## Security Engineering Perspective
+
+These projects focus on understanding how misconfigurations introduce risk, how system-level issues are detected, and how security controls can be applied to reduce attack surface.
+
+---
+
 ## Repository Purpose
 
-The goal of this repository is to demonstrate practical, job-ready skills through structured labs that simulate enterprise environments and operational workflows.
+The goal of this repository is to demonstrate how systems are built, monitored, and secured through structured, scenario-based labs that reflect real operational environments.
 
 ---
 
@@ -39,4 +43,4 @@ The goal of this repository is to demonstrate practical, job-ready skills throug
 
 For SIEM and detection-focused projects:
 
-* SOC-Projects
+* security-monitoring-incident-detection-lab
