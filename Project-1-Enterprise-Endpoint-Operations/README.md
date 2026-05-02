@@ -1,8 +1,8 @@
-# Enterprise Endpoint Operations & SOC Foundations Lab
+# Endpoint Security & System Operations Lab
 
 ## Purpose
 
-This repository demonstrates a hands-on enterprise-style Windows endpoint lab, simulating real-world IT Support and SOC workflows. The lab emphasizes **structured operational processes, incident detection, root cause analysis, and security validation**, rather than advanced tooling.  
+This project demonstrates a hands-on Windows endpoint security lab simulating real-world system operations and incident scenarios. It focuses on structured analysis of system behavior, including baseline validation, performance troubleshooting, incident simulation, and security hardening in a controlled environment.
 
 Key focus areas:  
 
@@ -12,7 +12,7 @@ Key focus areas:
 - Security hardening and verification  
 - Evidence-based documentation
 
-The project showcases **operational readiness and methodical problem-solving**, foundational skills for entry-level SOC, IT support, and endpoint security roles.
+The project reflects practical skills in system security, incident analysis, and endpoint operations.
 
 ---
 
@@ -117,14 +117,13 @@ This structure reflects **real-world operational procedures** used in IT support
 
 ## Career Relevance
 
-The lab aligns with responsibilities for:  
+This lab aligns with foundational responsibilities in:
 
-- IT Support Specialist  
-- SOC Analyst (Tier 1)  
-- Endpoint Support Engineer  
-- Junior Security Engineer  
+- IT Support and System Administration
+- Security Operations and Incident Analysis
+- Junior Security Engineering roles 
 
-It demonstrates **operational readiness, investigative discipline, and security awareness**, building a foundation for advanced cloud security skills.
+It demonstrates operational readiness, investigative discipline, and system-level security understanding, forming a foundation for advanced cloud security engineering skills.
 
 ---
 
